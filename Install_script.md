@@ -3,7 +3,8 @@
 When running install it will take lates version.
 Install arg should take option -p PLATFORM like "arch" and act accordingly. I could make a platform like "mac" etc. See bash constans grok chat to find how to share the value for PLATFORM.
 
-Arg: upgrade -v VERSION<br>
+Arg: upgrade -v VERSION
+
 Fetch whatever file (curl) inspegt if needed and upgrade the program. However, when running main script it will do latest.
 
 Alt 1) If version doesnt exist
