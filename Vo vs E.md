@@ -9,7 +9,7 @@ Text(
 ```
 
 
-Good example of aggregate root
+Good example of aggregate root - document that
 
 https://www.kranio.io/en/blog/de-bueno-a-excelente-en-ddd-entendiendo-aggregates-y-aggregate-roots-en-domain-driven-design---3-10
 
